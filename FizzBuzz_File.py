@@ -12,5 +12,3 @@ def FizzBuzz(start, finish):
         else:
             outlist.append(i)
     return outlist
-
-print(FizzBuzz(1, 15))
